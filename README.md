@@ -9,7 +9,7 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Devil0raj0?label=Follow&style=for-the-badge&color=00ffcc&logo=github)](https://github.com/Devil0raj0)
+[![GitHub followers](https://img.shields.io/github/followers/RajRakshitSahoo?label=Follow&style=for-the-badge&color=00ffcc&logo=github)](https://github.com/RajRakshitSahoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raj-rakshit-sahoo-78718b3b3)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajrakshit500@gmail.com)
 
@@ -206,7 +206,7 @@ ML-based clothing recommendation engine that suggests outfits from user inputs.
 
 **🔍 More on GitHub**
 Explore the full collection of experiments, tools, and shipped projects.
-[**→ View all repositories**](https://github.com/Devil0raj0?tab=repositories)
+[**→ View all repositories**](https://github.com/RajRakshitSahoo?tab=repositories)
 
 </td>
 </tr>
@@ -268,16 +268,16 @@ while (alive) {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devil0raj0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devil0raj0&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RajRakshitSahoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajRakshitSahoo&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devil0raj0&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajRakshitSahoo&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devil0raj0&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajRakshitSahoo&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -289,7 +289,7 @@ while (alive) {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devil0raj0)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajRakshitSahoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-rakshit-sahoo-78718b3b3)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajrakshit500@gmail.com)
 
@@ -309,7 +309,7 @@ while (alive) {
 **The future is built by those who create it.**
 Thanks for visiting my profile. 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Devil0raj0&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=RajRakshitSahoo&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
