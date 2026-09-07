@@ -1,5 +1,5 @@
 <p align="center">
-  <picture>
+  <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-light.svg">
     <img src="./assets/hero/builder-profile-dark.svg" alt="Raj Rakshit Sahoo, Full Stack Developer" width="100%">
