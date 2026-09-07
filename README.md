@@ -1,45 +1,20 @@
-╔══════════════════════════════════════════════╗
-║                                              ║
-║          RAJ RAKSHIT SAHOO                  ║
-║          FULL STACK DEVELOPER               ║
-║                                              ║
-║      AI × WEB × SOFTWARE × FUTURE           ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+<div align="center">
 
-> whoami
+# ⚡ RAJ RAKSHIT SAHOO
 
-Full Stack Developer building AI-powered
-applications and developer tools.
+### `FULL STACK DEVELOPER` • `AI BUILDER` • `SOFTWARE ENGINEER`
 
-SYSTEM STATUS: 🟢 ONLINE
-
-> current_project
-
-🤖 DEVFLOW AI
-
-AI-powered developer productivity platform.
-
-> tech_stack
-
-C  Java  Python  TypeScript
-React  Next.js  Node.js
-Express  PostgreSQL  MongoDB
-Docker  Git  GitHub
-
-> featured_projects
-
-🤖 DevFlow AI
-💼 CareerConnect
-🎮 GameVerse
-🤖 CodeVault AI
-
-> github_stats
-
-[ GitHub Stats ]
-
-[ Contribution Graph ]
-
-> connect
-
-GitHub | Portfolio | LinkedIn
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 ░▒▓ SYSTEM INITIALIZED ▓▒░                  ║
+║                                                              ║
+║  USER        : RAJ RAKSHIT SAHOO                            ║
+║  ROLE        : FULL STACK DEVELOPER                         ║
+║  STATUS      : ● ONLINE                                     ║
+║  CURRENT     : DEVFLOW AI                                   ║
+║  FOCUS       : AI × WEB × SOFTWARE                          ║
+║                                                              ║
+║  > BUILDING THE FUTURE, ONE COMMIT AT A TIME_               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
